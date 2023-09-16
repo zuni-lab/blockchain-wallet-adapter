@@ -1,0 +1,5 @@
+{
+  "directory": ["./src/adapters", "./src/core", "src/interfaces"],
+  "exclude": ["__mock__", "__mocks__", "test", "build"],
+  "delete": true
+}
